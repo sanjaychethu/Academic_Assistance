@@ -22,4 +22,4 @@
 
 ### Conclusion
 
-Congratulations! You've successfully initialized an Express.js server within your project. This setup allows you to handle HTTP requests and build powerful web applications using Express.js.
+This setup allows you to handle HTTP requests and build powerful web applications using Express.js.
